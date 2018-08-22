@@ -8,9 +8,9 @@ def main_menu():
     clear()
     print(
         "   .::XL - Direct Purchase Package::." +
-        "\nPlease choose the menu you want to start:"
-        "\n[1] Purchase Package" + 
-        "\n[2] Request Password"  +
+        "\nPilihen Menu e:"
+        "\n[1] Tuku Paket" + 
+        "\n[2] Jalok Password"  +
         "\n[0] Quit"
     )
     choice = str(input(" >> "))
